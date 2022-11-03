@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <h1>Nathalia</h1>
+  </header>
+  <p> Meu nome é Nathalia, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Algumas curiosidades sobre mim são que eu adoro filmes de terror,e eu tenho três gatos.<br></p>
+  <p>Um dos gatos é macho, Zeus, ele é preto e bem peludão. Minha outra gata é irmã do Zeus, o nome dela é Hera. Eles são das mesma ninhada. A minha terceira gatinha é a caçulinha. Quem chamou ela pra casa foi o Zeus. Ela vivia nas ruas, mas acro que o zeus escutou os miados dela e respondeu. <p>
+  <script src="script.js"></script>
+
+ <!--
+This script places a badge on your repl's full-browser view back to your repl's cover page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green, teal, blue, blurple, magenta, pink!
+-->
+<script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
